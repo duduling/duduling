@@ -1,4 +1,6 @@
-## 🚶🏻‍♂️ Hi~ 🏃🏻‍♂️
+## 🚶🏻‍♂️ Profile 🏃🏻‍♂️
+
+I'm Front-end Developer
 
 ### Status
 
@@ -7,5 +9,5 @@
 ### Go to My Blog
 
 <p>
-  <a href="https://duduling.dev" target="_blank"><img src="https://github.com/duduling/duduling/blob/main/cover.png?raw=true" width="495px" height="195px"/></a>
+  <a href="https://duduling.dev" target="_blank"><img src="https://github.com/duduling/duduling/blob/main/bg_cover.png?raw=true" width="495px" height="195px"/></a>
 </p>
