@@ -9,5 +9,5 @@ I'm Front-end Developer
 ### Go to My Blog
 
 <p>
-  <a href="https://duduling.dev" target="_blank"><img src="https://github.com/duduling/duduling/blob/main/bg_cover.png?raw=true" width="495px" height="195px"/></a>
+  <a href="https://duduling.dev" target="_blank"><img src="./bg_cover_v2.png" width="495px" height="220px"/></a>
 </p>
